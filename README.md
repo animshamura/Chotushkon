@@ -1,4 +1,5 @@
 # Chotushkon
+<div align="center">
 Chotushkon, a compact project of three core services  named Gunik, Nirban and Mokabela. In extension, Mokabela has two services named Seba and Tohbil. 
 ### Gunik: 
 Gunik is basically a rumour scanner, developed with a model being preprocessed from a vast dataset which contains both Bangla and English text data. 
@@ -15,5 +16,6 @@ Mokabela is basically a disaster management app, which raises fund and distribut
 For example, to detect any fraud or false call for help, Seba has an ML model to check how it works. Image dataset would work there to verify. 
 
 This is all in sum of Chotushkon.
+</div>
 ## Elementary Design :
 <div align="center"> <image src="https://github.com/animshamura/Chotushkon/blob/main/Chotushkon.JPG?raw=true"/> </div>
