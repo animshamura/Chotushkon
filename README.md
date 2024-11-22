@@ -3,7 +3,7 @@
 Chotushkon, a compact project of three core services  named Gunik, Nirban and Mokabela. In extension, Mokabela has two services named Seba and Tohbil. 
   
 ### Gunik :
-Gunik is basically a rumour scanner, developed with a model being preprocessed from a vast dataset which contains both Bangla and English text data. Gunik's front end has the functionality to check whether a news is rumour or not. If the data is already in the database, FE will call the model, it will fetch data through the backend from the database. 
+Gunik is basically a rumour scanner, developed with a model being preprocessed from a vast dataset which contains both Bangla and English text data. Gunik's front end has the functionality to check whether a news is rumour or not. If the data is already in the database, FE will not call the model, it will fetch data through the backend from the database. 
 
 ### Nirban :
 Nirban is basically a security app. It gets a help request and alerts the armed forces nearby. It also goes through Gunik's verification to check whether the help request is false. 
